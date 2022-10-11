@@ -4,7 +4,7 @@ function calculateTotal(quantity, price){
 }
 
 function outputCartRow(item, total){
-    document.write("<tr> <td> " + item.toFixed() + " </td> <td> " + total.toFixed() + " </td></tr>");
+    document.write("<tr>  <td> " + item.toFixed() + " </td> <td> " + total.toFixed() + " </td></tr>");
 }
 
 
